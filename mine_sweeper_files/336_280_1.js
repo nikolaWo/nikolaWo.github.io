@@ -1,0 +1,1 @@
+document.writeln("<a href='#'><img src='/ad/336_280test1.gif' alt=''></a>");
